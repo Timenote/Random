@@ -1,4 +1,4 @@
-['java', 'maven', 'signing'].each {
+['java', 'maven', 'signing', 'eclipse'].each {
   apply plugin: it
 }
 
